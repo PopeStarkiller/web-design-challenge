@@ -1,0 +1,65 @@
+.img1{
+    max-height:600px;
+    max-width:600px;
+    height:auto;
+    width:auto;
+}
+.img2{
+    max-height:110px;
+    max-width:110px;
+    height:auto;
+    width:auto;
+}
+
+.img3 {
+	max-width: 100%;
+	height: auto;
+}
+
+.img4{
+    max-height:400px;
+    max-width:400px;
+    height:auto;
+    width:auto;
+}
+.container1 {
+  position: relative;
+  text-align: center;
+
+}
+.tborder {
+	border: 1px solid teal;
+}
+
+table tr {
+    border-bottom: 1px solid lightgray;
+}
+
+table tr:last-child { 
+    border-bottom: none; 
+}
+
+table td, table th {
+	padding:10px;
+
+	.white-teal-back {
+	color: white;
+	background-color: teal;
+	text-decoration: none;
+	font-size: 40px;
+}
+.white-teal-back {
+	color: white;
+	background-color: teal;
+	text-decoration: none;
+	font-size: 40px;
+}
+
+
+.card h1 {
+	color: teal;
+}
+
+.card h2 {
+	color: teal;
+	text-align: center;
